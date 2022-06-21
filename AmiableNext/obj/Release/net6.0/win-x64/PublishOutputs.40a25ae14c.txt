@@ -1,0 +1,9 @@
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext\bin\Release\net6.0\win-x64\publish\appsettings.Development.json
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext\bin\Release\net6.0\win-x64\publish\appsettings.json
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext\bin\Release\net6.0\win-x64\publish\config\赛马Ami\config.json
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext\bin\Release\net6.0\win-x64\publish\config\赛马Ami\自定义事件.json
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext\bin\Release\net6.0\win-x64\publish\AmiableNext.pdb
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext\bin\Release\net6.0\win-x64\publish\AmiableNext.SDK.pdb
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext\bin\Release\net6.0\win-x64\publish\HorseRaceAmi.Re.Code.pdb
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext\bin\Release\net6.0\win-x64\publish\HorseRaceAmi.Re.Sdk.pdb
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext\bin\Release\net6.0\win-x64\publish\AmiableNext.exe

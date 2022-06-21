@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\AmiableNext.SDK\AmiableNext.SDK.csproj" />
+      <ProjectReference Include="..\HorseRaceAmi.Re.Sdk\HorseRaceAmi.Re.Sdk.csproj" />
+      <ProjectReference Include="..\HorseRaceAmi.SDK\HorseRaceAmi.SDK.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="BotEvents\Stats\QueryRanklist.cs" />
+      <Compile Remove="BotEvents\Stats\QueryStats.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Activities" />
+      <Folder Include="BotEvents\Stats" />
+    </ItemGroup>
+
+</Project>

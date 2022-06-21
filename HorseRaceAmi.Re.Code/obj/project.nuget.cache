@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "MzoY0atjvAVk+UFa1JO+wv8UmvchSQiI584kxSNdsJO/7ttpokHPaSuyelEOrL/g8dpxrqlJqj+O0WL06rqaTA==",
+  "success": false,
+  "projectFilePath": "E:\\Amiable\\Projects\\HorseRaceAmi\\HorseRaceAmi.Re.Code\\HorseRaceAmi.Re.Code.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'E:\\Amiable\\Projects\\HorseRaceAmi\\HorseRaceAmi.SDK\\HorseRaceAmi.SDK.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "E:\\Amiable\\Projects\\HorseRaceAmi\\HorseRaceAmi.SDK\\HorseRaceAmi.SDK.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
