@@ -9,7 +9,6 @@
     <ItemGroup>
       <ProjectReference Include="..\AmiableNext.SDK\AmiableNext.SDK.csproj" />
       <ProjectReference Include="..\HorseRaceAmi.Re.Sdk\HorseRaceAmi.Re.Sdk.csproj" />
-      <ProjectReference Include="..\HorseRaceAmi.SDK\HorseRaceAmi.SDK.csproj" />
     </ItemGroup>
 
     <ItemGroup>

@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "ChXRyiGo6HHWO8WMzNOqek4zfwMLIXAbE7vhjKUjp37ksEMUtngids2a1C21hEXkgzKSXCb5g6FTR7EdkV6uSA==",
-  "success": false,
+  "dgSpecHash": "cvw6d0dyXKN4+fVVDiv46nXtn3IZ+WH+yxwrHOcqfReHWIpn1cTORNgDeDk95rRa0y8AN6+Etlob2cWBO5x8qA==",
+  "success": true,
   "projectFilePath": "E:\\Amiable\\Projects\\HorseRaceAmi\\AmiableNext\\AmiableNext.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HeerKaisair\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
@@ -11,15 +11,5 @@
     "C:\\Users\\HeerKaisair\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
     "C:\\Users\\HeerKaisair\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'E:\\Amiable\\Projects\\HorseRaceAmi\\HorseRaceAmi.SDK\\HorseRaceAmi.SDK.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "E:\\Amiable\\Projects\\HorseRaceAmi\\HorseRaceAmi.SDK\\HorseRaceAmi.SDK.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

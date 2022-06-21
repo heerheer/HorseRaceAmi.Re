@@ -34,25 +34,43 @@
 ##### 2️⃣配置 mirai-http-api (重要)
 
 1. 适配器:
+
 ```yaml
-adapters: 
+adapters:
   - webhook
   - http
 ```
+
 2. 必须开启 singleMode
+
 ```yaml
 singleMode: true
 ```
+
 3. 配置verifyKey
+4. 配置WebHook回调地址
+
+这一步首先要更改**本体**`appsettings.json`的`Urls`选项
+```json
+"Urls": "http://localhost:8501"
+```
+紧接着，修改WebHook Adapter的目标地址
+```yaml
+adapterSettings:
+  webhook:
+    destinations: 
+    - 'localhost:8501/MiraiEvent'
+```
+8501是默认的赛马AMI.RE监听端口
+
+`/MiraiEvent'`是针对Mirai的事件监听路由
+
 
 ##### 3️⃣配置 赛马AMI.RE
 
 > 具体参考[配置appsettings.json](#配置)
 
 ### MYQQ:最佳支持
-
-
-
 
 ## 配置
 
@@ -110,9 +128,14 @@ Mode表示当前程序使用的API模式。
 
 http adapter 使用的 host:port 以及 verifyKey
 
+## 指令
+
+@ + .hrami 可以查看hrami指令集
+例如
+@bot .hrami
+
 ## 路线图
 
 ## 支持
-
 
 ## 更多

@@ -1,0 +1,17 @@
+E:\Amiable\Projects\HorseRaceAmi\HorseRaceAmi.Re.Code\bin\Debug\net6.0\HorseRaceAmi.Re.Code.deps.json
+E:\Amiable\Projects\HorseRaceAmi\HorseRaceAmi.Re.Code\bin\Debug\net6.0\HorseRaceAmi.Re.Code.dll
+E:\Amiable\Projects\HorseRaceAmi\HorseRaceAmi.Re.Code\bin\Debug\net6.0\HorseRaceAmi.Re.Code.pdb
+E:\Amiable\Projects\HorseRaceAmi\HorseRaceAmi.Re.Code\bin\Debug\net6.0\AmiableNext.SDK.dll
+E:\Amiable\Projects\HorseRaceAmi\HorseRaceAmi.Re.Code\bin\Debug\net6.0\HorseRaceAmi.Re.Sdk.dll
+E:\Amiable\Projects\HorseRaceAmi\HorseRaceAmi.Re.Code\bin\Debug\net6.0\AmiableNext.SDK.pdb
+E:\Amiable\Projects\HorseRaceAmi\HorseRaceAmi.Re.Code\bin\Debug\net6.0\HorseRaceAmi.Re.Sdk.pdb
+E:\Amiable\Projects\HorseRaceAmi\HorseRaceAmi.Re.Code\obj\Debug\net6.0\HorseRaceAmi.Re.Code.csproj.AssemblyReference.cache
+E:\Amiable\Projects\HorseRaceAmi\HorseRaceAmi.Re.Code\obj\Debug\net6.0\HorseRaceAmi.Re.Code.GeneratedMSBuildEditorConfig.editorconfig
+E:\Amiable\Projects\HorseRaceAmi\HorseRaceAmi.Re.Code\obj\Debug\net6.0\HorseRaceAmi.Re.Code.AssemblyInfoInputs.cache
+E:\Amiable\Projects\HorseRaceAmi\HorseRaceAmi.Re.Code\obj\Debug\net6.0\HorseRaceAmi.Re.Code.AssemblyInfo.cs
+E:\Amiable\Projects\HorseRaceAmi\HorseRaceAmi.Re.Code\obj\Debug\net6.0\HorseRaceAmi.Re.Code.csproj.CoreCompileInputs.cache
+E:\Amiable\Projects\HorseRaceAmi\HorseRaceAmi.Re.Code\obj\Debug\net6.0\HorseRaceAmi.Re.Code.csproj.CopyComplete
+E:\Amiable\Projects\HorseRaceAmi\HorseRaceAmi.Re.Code\obj\Debug\net6.0\HorseRaceAmi.Re.Code.dll
+E:\Amiable\Projects\HorseRaceAmi\HorseRaceAmi.Re.Code\obj\Debug\net6.0\refint\HorseRaceAmi.Re.Code.dll
+E:\Amiable\Projects\HorseRaceAmi\HorseRaceAmi.Re.Code\obj\Debug\net6.0\HorseRaceAmi.Re.Code.pdb
+E:\Amiable\Projects\HorseRaceAmi\HorseRaceAmi.Re.Code\obj\Debug\net6.0\ref\HorseRaceAmi.Re.Code.dll

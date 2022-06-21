@@ -60,6 +60,9 @@ public class MiraiEventController : ControllerBase
                     case "Plain":
                         sb.Append(x["text"]!);
                         break;
+                    case "At":
+                        sb.Append($"[@{x["target"]}]");
+                        break;
                     case "Image":
                         sb.Append($"[pic={x["imageId"]}]");
                         break;
@@ -68,7 +71,7 @@ public class MiraiEventController : ControllerBase
             return sb.ToString();
         }
 
-
+#if DEBUG
         if (GetGroup() != null)
         {
             if (GetGroup() != "906831921")
@@ -77,10 +80,12 @@ public class MiraiEventController : ControllerBase
                 return;
             }
         }
+#endif
+
 
         EventHandleResult HandleResult = EventHandleResult.Continue;
-        
-        _logger.LogInformation("{ori}", originContext.ToString());
+
+        //_logger.LogInformation("{ori}", originContext.ToString());
 
 
         var ctx = new AmiableEventContext(_amiable.NextApi)

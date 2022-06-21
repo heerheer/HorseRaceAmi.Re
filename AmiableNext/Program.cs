@@ -18,8 +18,10 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<AmiableService>().AddHostedService(sp => sp.GetRequiredService<AmiableService>());
 builder.Configuration.AddJsonFile("appsettings.json");
+/*
 builder.Services.Configure<MiraiConfiguration>(builder.Configuration.GetSection("Mirai_HTTP_HOOK"));
 builder.Services.Configure<MyqqConfiguration>(builder.Configuration.GetSection("MyQQ_HTTP_API"));
+*/
 
 var app = builder.Build();
 // Configure the HTTP request pipeline.

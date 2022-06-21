@@ -88,7 +88,6 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "AmiableNext.SDK": "1.0.0",
-          "E:\\Amiable\\Projects\\HorseRaceAmi\\HorseRaceAmi.SDK\\HorseRaceAmi.SDK.csproj": "1.0.0",
           "HorseRaceAmi.Re.Sdk": "1.0.0"
         },
         "compile": {
@@ -331,16 +330,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'E:\\Amiable\\Projects\\HorseRaceAmi\\HorseRaceAmi.SDK\\HorseRaceAmi.SDK.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "E:\\Amiable\\Projects\\HorseRaceAmi\\HorseRaceAmi.SDK\\HorseRaceAmi.SDK.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

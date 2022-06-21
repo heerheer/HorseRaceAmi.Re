@@ -10,3 +10,15 @@ E:\Amiable\source\AmiableNext\AmiableNext.SDK\obj\Debug\net6.0\AmiableNext.SDK.d
 E:\Amiable\source\AmiableNext\AmiableNext.SDK\obj\Debug\net6.0\refint\AmiableNext.SDK.dll
 E:\Amiable\source\AmiableNext\AmiableNext.SDK\obj\Debug\net6.0\AmiableNext.SDK.pdb
 E:\Amiable\source\AmiableNext\AmiableNext.SDK\obj\Debug\net6.0\ref\AmiableNext.SDK.dll
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext.SDK\bin\Debug\net6.0\AmiableNext.SDK.deps.json
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext.SDK\bin\Debug\net6.0\AmiableNext.SDK.dll
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext.SDK\bin\Debug\net6.0\AmiableNext.SDK.pdb
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext.SDK\obj\Debug\net6.0\AmiableNext.SDK.csproj.AssemblyReference.cache
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext.SDK\obj\Debug\net6.0\AmiableNext.SDK.GeneratedMSBuildEditorConfig.editorconfig
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext.SDK\obj\Debug\net6.0\AmiableNext.SDK.AssemblyInfoInputs.cache
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext.SDK\obj\Debug\net6.0\AmiableNext.SDK.AssemblyInfo.cs
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext.SDK\obj\Debug\net6.0\AmiableNext.SDK.csproj.CoreCompileInputs.cache
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext.SDK\obj\Debug\net6.0\AmiableNext.SDK.dll
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext.SDK\obj\Debug\net6.0\refint\AmiableNext.SDK.dll
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext.SDK\obj\Debug\net6.0\AmiableNext.SDK.pdb
+E:\Amiable\Projects\HorseRaceAmi\AmiableNext.SDK\obj\Debug\net6.0\ref\AmiableNext.SDK.dll

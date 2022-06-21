@@ -182,11 +182,13 @@ public class AmiableNextApi
     //帮助构建mirai-http-api-body，并发送请求
     private async Task<JsonNode?> SendMiraiReq(string api, dynamic body)
     {
-        Console.WriteLine("send");
         var content = new StringContent(JsonSerializer.Serialize(body));
         var resp = JsonSerializer.Deserialize<JsonNode>(await (await _httpClient.PostAsync(api, content)).Content
             .ReadAsStringAsync());
+#if DEBUG
+        Console.WriteLine("send");
         Console.WriteLine(resp.ToString());
+#endif
         return resp;
     }
 

@@ -176,7 +176,7 @@ namespace HorseRaceAmi.Re.Code.BotEvents
                 default: //提示帮助文档
                 {
                     var sb = new StringBuilder();
-                    sb.AppendLine($"> 展示Config-Json");
+                    sb.AppendLine($"> @bot .hrami -c on/off");
                     sb.AppendLine(JsonSerializer.Serialize(cfg));
                     _ctx.GroupReply(sb.ToString());
                     break;
@@ -231,6 +231,9 @@ namespace HorseRaceAmi.Re.Code.BotEvents
                 {
                     var sb = new StringBuilder();
                     sb.AppendLine($"> 用户数据操作");
+                    sb.AppendLine($"> .hrami -u");
+                    sb.AppendLine($"> -u baga @xxx item_Name");
+                    sb.AppendLine($"> -u bagr @xxx item_Name");
                     _ctx.GroupReply(sb.ToString());
                     break;
                 }
